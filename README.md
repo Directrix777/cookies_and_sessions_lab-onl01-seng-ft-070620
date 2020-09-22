@@ -1,4 +1,4 @@
-# Cookies and Sessions Lab
+# Cookies and Sessions Lab 
 
 ## Objective
 
